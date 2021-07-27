@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💼 ML Engineer @ Superb corp. (2020.07. ~ Present)
+- 💼 ML Engineer @ Superb corp.                   (2020.07. ~ 2021.08.)
 - 💼 ML Engineer @ Ajou University Medical Center (2019.11. ~ 2020.06.)
 
 - 🤔 Audio Signal Processing & Music Information Retrieval
@@ -8,6 +8,9 @@
 
 - 📫 helloybz@gmail.com
 
+
+### Projects
+- MusicSplitter
 <!--
 **helloybz/helloybz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
