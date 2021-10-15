@@ -10,9 +10,9 @@
 
 
 #### Implementing Papers
-- Demucs
-- Deepwalk
-- Content- and Link-Aware Node Embedding in Graphs (my tiny little Master's thesis)
+- [Demucs](https://github.com/helloybz/Demucs-Clone)
+- [Deepwalk](https://github.com/helloybz/Deepwalk-Clone)
+- [CLANE](https://github.com/helloybz/CLANE)
 
 #### Project
 - Note Pattern Generator (for Rhythm games)
