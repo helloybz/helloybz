@@ -16,4 +16,5 @@
 - [CLANE](https://github.com/helloybz/CLANE) (Master's thesis)
 
 #### Project
-- [NPG](https://github.io/NPG) @ Superb corp.
+- [Note Pattern Generator](https://github.io/NPG) for Rhythm Games @ Superb corp.
+- Batch Correction with Adversarial AutoEncoder @ AUMC
