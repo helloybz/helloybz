@@ -11,10 +11,10 @@
 
 
 #### Implementing Papers
-- [Demucs](https://github.com/helloybz/Demucs-Clone)
-- [Deepwalk](https://github.com/helloybz/Deepwalk-Clone)
-- [CLANE](https://github.com/helloybz/CLANE) (Master's thesis)
+- [Demucs](https://helloybz.github.io/Decmus-Clone)
+- [Deepwalk](https://helloybz.github.io/Deepwalk-Clone)
+- [CLANE](https://helloybz.github.io/CLANE) (Master's thesis)
 
 #### Project
-- [Note Pattern Generator](https://github.io/NPG) for Rhythm Games @ Superb corp.
+- [Note Pattern Generator](https://helloybz.github.io/NPG) for Rhythm Games @ Superb corp.
 - Batch Correction with Adversarial AutoEncoder @ AUMC
